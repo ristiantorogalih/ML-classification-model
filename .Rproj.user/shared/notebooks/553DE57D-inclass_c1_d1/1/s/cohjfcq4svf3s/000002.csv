@@ -1,0 +1,6 @@
+"0","# tentukan kelas"
+"0","ifelse(0.8>0.5,""LULUS"",""TIDAK"") #0.5 adalah nilai tengah lulus/tidak"
+"1","[1]"
+"1"," ""LULUS"""
+"1","
+"

@@ -1,0 +1,8 @@
+"0","library(dplyr) #memudahkan data wrangling/preprocessing"
+"0","#piping untuk menyambungkan proses"
+"0","honors %>% "
+"0","  #mengubah tipe data/isi kolom"
+"0","  mutate("
+"0","    hon=as.factor(hon),"
+"0","    female=as.factor(female)"
+"0","  )"
